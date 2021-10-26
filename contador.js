@@ -7,15 +7,11 @@ Percorrer de 0 até o número total de alunos
  	Se o número for impar, escrever ......
                  Se o número for par, escrever ......*/
 
-// 1)ll
-
- let numeroDeAlunos = 5
-Console.log(numeroDeAlunos)
-
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 // 2) laço contado.
 
-
+for (i= 0; i < 5; i++)
+ console.log(Euripedes) 
  //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 

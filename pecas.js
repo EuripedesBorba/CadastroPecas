@@ -12,7 +12,7 @@
 // ("Cadastro de peças")
 
 
-let peso = 99;
+let peso = 99:
 
 if (peso > 100) {
     console.log("A peça pode  ser cadastrada")
