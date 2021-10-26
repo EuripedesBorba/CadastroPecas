@@ -11,6 +11,7 @@ Percorrer de 0 até o número total de alunos
 
  let numeroDeAlunos = 5
 Console.log(numeroDeAlunos)
+
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 // 2) laço contado.
 
