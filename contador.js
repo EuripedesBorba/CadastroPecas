@@ -7,7 +7,7 @@ Percorrer de 0 até o número total de alunos
  	Se o número for impar, escrever ......
                  Se o número for par, escrever ......*/
 
-// 1)
+// 1)ll
 
  let numeroDeAlunos = 5
 Console.log(numeroDeAlunos)
